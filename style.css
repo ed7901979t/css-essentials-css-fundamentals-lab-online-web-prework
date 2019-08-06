@@ -9,6 +9,8 @@ h1 {
 }
 #featured-property {
   image-rendering: center;
+  width: auto;
+  
   
   
 }
