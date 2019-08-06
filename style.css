@@ -14,10 +14,28 @@ h1 {
   
   
 }
+#featured-property ~ p {
+  width: 800px;
+  text-align: center;
+  
+}
 nav ~ a {
   padding-left: 10px;
   padding-right: 10px;
   background: grey;
+  
+  
+}
+#details {
+  display: block;
+  
+  
+}
+div s {
+  float: left;
+  text-align: center;
+  
+  
   
   
 }
